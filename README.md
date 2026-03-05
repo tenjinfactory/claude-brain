@@ -7,9 +7,13 @@
     <b>claude-brain</b> is a Claude Code plugin for <b>brain sync</b> — sync Claude Code memory, skills, agents, rules, and settings across all your machines with semantic merge. Cross-machine, portable, zero daily effort.
   </p>
   <p align="center">
+    <a href="https://github.com/toroleapinc/claude-brain/stargazers"><img src="https://img.shields.io/github/stars/toroleapinc/claude-brain?style=social" alt="Stars"></a>
+    <a href="https://github.com/toroleapinc/claude-brain/blob/main/LICENSE"><img src="https://img.shields.io/github/license/toroleapinc/claude-brain" alt="License"></a>
+    <a href="https://github.com/toroleapinc/claude-brain/issues"><img src="https://img.shields.io/github/issues/toroleapinc/claude-brain" alt="Issues"></a>
     <img src="https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20WSL-blue" alt="Platform">
     <img src="https://img.shields.io/badge/Claude%20Code-Plugin-blueviolet" alt="Claude Code Plugin">
-    <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
+    <a href="https://github.com/toroleapinc/claude-brain/commits/main"><img src="https://img.shields.io/github/last-commit/toroleapinc/claude-brain" alt="Last Commit"></a>
+    <a href="https://github.com/toroleapinc/claude-brain/network/members"><img src="https://img.shields.io/github/forks/toroleapinc/claude-brain?style=social" alt="Forks"></a>
   </p>
 </p>
 
@@ -265,16 +269,6 @@ Trigger manually anytime with `/brain-evolve`.
 ## Contributing
 
 Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-## Star History
-
-<a href="https://star-history.com/#toroleapinc/claude-brain&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=toroleapinc/claude-brain&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=toroleapinc/claude-brain&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=toroleapinc/claude-brain&type=Date" />
- </picture>
-</a>
 
 ## License
 
