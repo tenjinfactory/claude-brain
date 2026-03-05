@@ -65,7 +65,7 @@ Be kind, be constructive, be helpful. That's it.
 
 ## Reporting security issues
 
-If you discover a security vulnerability, please do NOT open a public issue. Email toroleapinc@gmail.com instead.
+If you discover a security vulnerability, please do NOT open a public issue. Instead, please use [GitHub's private vulnerability reporting](https://github.com/toroleapinc/claude-brain/security/advisories/new).
 
 ## License
 

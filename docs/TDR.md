@@ -1,7 +1,7 @@
 # Technical Design Review: claude-brain
 
 **Project**: claude-brain — Sync and evolve your Claude Code brain across machines
-**Author**: Eddie Liang
+**Author**: edvatar
 **Date**: 2026-03-03
 **Status**: Draft
 
