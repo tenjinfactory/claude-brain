@@ -10,13 +10,13 @@
     <b>claude-brain</b> is a Claude Code plugin for <b>brain sync</b> — sync Claude Code memory, skills, agents, rules, and settings across all your machines with semantic merge. Cross-machine, portable, zero daily effort.
   </p>
   <p align="center">
-    <a href="https://github.com/toroleapinc/claude-brain/stargazers"><img src="https://img.shields.io/github/stars/toroleapinc/claude-brain?style=social" alt="Stars"></a>
-    <a href="https://github.com/toroleapinc/claude-brain/blob/main/LICENSE"><img src="https://img.shields.io/github/license/toroleapinc/claude-brain" alt="License"></a>
-    <a href="https://github.com/toroleapinc/claude-brain/issues"><img src="https://img.shields.io/github/issues/toroleapinc/claude-brain" alt="Issues"></a>
+    <a href="https://github.com/tenjinfactory/claude-brain/stargazers"><img src="https://img.shields.io/github/stars/tenjinfactory/claude-brain?style=social" alt="Stars"></a>
+    <a href="https://github.com/tenjinfactory/claude-brain/blob/main/LICENSE"><img src="https://img.shields.io/github/license/tenjinfactory/claude-brain" alt="License"></a>
+    <a href="https://github.com/tenjinfactory/claude-brain/issues"><img src="https://img.shields.io/github/issues/tenjinfactory/claude-brain" alt="Issues"></a>
     <img src="https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20WSL-blue" alt="Platform">
     <img src="https://img.shields.io/badge/Claude%20Code-Plugin-blueviolet" alt="Claude Code Plugin">
-    <a href="https://github.com/toroleapinc/claude-brain/commits/main"><img src="https://img.shields.io/github/last-commit/toroleapinc/claude-brain" alt="Last Commit"></a>
-    <a href="https://github.com/toroleapinc/claude-brain/network/members"><img src="https://img.shields.io/github/forks/toroleapinc/claude-brain?style=social" alt="Forks"></a>
+    <a href="https://github.com/tenjinfactory/claude-brain/commits/main"><img src="https://img.shields.io/github/last-commit/tenjinfactory/claude-brain" alt="Last Commit"></a>
+    <a href="https://github.com/tenjinfactory/claude-brain/network/members"><img src="https://img.shields.io/github/forks/tenjinfactory/claude-brain?style=social" alt="Forks"></a>
   </p>
 </p>
 
@@ -85,8 +85,8 @@ Two commands. Zero daily effort. Works forever.
 
 ```bash
 # Add the marketplace and install
-/plugin marketplace add toroleapinc/claude-brain
-/plugin install claude-brain
+/plugin marketplace add tenjinfactory/claude-brain
+/plugin install claude-brain-sync
 ```
 
 ### Initialize (first machine)

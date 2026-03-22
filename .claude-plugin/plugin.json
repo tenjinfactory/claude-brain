@@ -4,10 +4,10 @@
   "version": "0.1.0",
   "author": {
     "name": "edvatar",
-    "url": "https://github.com/toroleapinc"
+    "url": "https://github.com/tenjinfactory"
   },
-  "homepage": "https://github.com/toroleapinc/claude-brain",
-  "repository": "https://github.com/toroleapinc/claude-brain",
+  "homepage": "https://github.com/tenjinfactory/claude-brain",
+  "repository": "https://github.com/tenjinfactory/claude-brain",
   "license": "MIT",
   "keywords": ["sync", "memory", "brain", "multi-machine", "merge", "productivity", "dotfiles", "cross-device"]
 }

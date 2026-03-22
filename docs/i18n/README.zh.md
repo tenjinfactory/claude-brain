@@ -67,8 +67,8 @@
 
 ```bash
 # 从插件市场安装
-/plugin marketplace add toroleapinc/claude-brain
-/plugin install claude-brain
+/plugin marketplace add tenjinfactory/claude-brain
+/plugin install claude-brain-sync
 ```
 
 ### 初始化（第一台设备）
